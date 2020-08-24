@@ -1,7 +1,3 @@
-# Steven Wilson
-The purpose of this document is to 
-share work samples for skills listed on my resume.
-
 ## Work Samples
 - [Excel](English_Job_Boards_and_Recruiters) - Displays number of posts
 made and cash spent by each recruiter on each English teaching job board
