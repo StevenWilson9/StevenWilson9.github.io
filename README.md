@@ -1,26 +1,23 @@
 # Steven Wilson
-A lil bit about me
+The purpose of this document is to 
+share work samples for skills listed on my resume.
 
-### Profiles
-- [LinkedIn](https://www.linkedin.com/in/stevenwilsonk/) - Resume
-- [GitHub](https://github.com/StevenWilson9) - See my project(s)
-- [Codewars](https://www.codewars.com/users/StevenWilson9/completed) -
-Python coding challenges I've completed
-
-##Skills + Work Samples
-- [Excel]() - 
-Examines usage of major English teaching job boards by different placement agencies
-- [Written Report + diagrams]() (PDF) - parts of the ESL Job Map business plan used in 2018
+## Work Samples
+- [Excel](English_Job_Boards_and_Recruiters) - Displays number of posts
+made and cash spent by each recruiter on each English teaching job board
+- [Written Report + diagrams](ESL_Job_Map_-_Business_Plan_redacted_version) (PDF) - Parts of the ESL Job Map business plan
 - [Presentation/PPT](EJM/2018-EJM-Dollars-Pitch_Deck.pdf) (PDF) - 
-Pitch deck for [ESL Job Map]() used in 2018
-- Python (Data Analytics) (project incoming) - 
-Does the Wilks Ratio fairly adjust gender, weight and age categories in Power Lifting?
-  - used: Jupyter Notebook, Pandas, Numpy and Pyplot
-- [Python (Coding)](https://github.com/StevenWilson9/Reddit-Bots) -
- Reddit bot
+Pitch deck for ESL Job Map used in 2018
+- [Python](https://github.com/StevenWilson9/Reddit-Bots)
+ (Reddit bot) - Rewrites code in the .format() format, to f-string format.
   - Used: RegEx and PRAW
 
+## Other Skills
+- **Soft skills:** Presentations, client communication in-person, on-phone and by email
+- **Medium proficiency:** SQL, WordPress and Content Management Systems
+- **Basic proficiency:** HTML/CSS, Bash, statistical significance calculations and Jira admin
 
-- Soft skills: Presentations, client communication in-person, on-phone and by email
-- Medium proficiency with: SQL and Wordpress, Content Management Systems
-- Basic proficiency with: HTML/CSS, Bash and Jira admin
+## Profiles
+- [LinkedIn](https://www.linkedin.com/in/stevenwilsonk/) - Resume
+- [Codewars](https://www.codewars.com/users/StevenWilson9/completed) -
+Python coding challenges I've completed
