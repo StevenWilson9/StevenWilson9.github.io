@@ -8,10 +8,6 @@ Pitch deck for ESL Job Map used in 2018
  (Reddit bot) - Rewrites code in the .format() format, to f-string format
   - Used: RegEx and PRAW
 
-## Other Skills
-- **Soft skills:** Presentations, client communication in-person, on-phone and by email
-- **Medium proficiency:** SQL, WordPress and Content Management Systems
-- **Basic proficiency:** HTML/CSS, Bash, statistical significance calculations and Jira admin
 
 ## Profiles
 - [LinkedIn](https://www.linkedin.com/in/stevenwilsonk/) - Resume
