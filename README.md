@@ -5,7 +5,7 @@ made and cash spent by each recruiter on each English teaching job board
 - [Presentation/PPT](EJM/2018-EJM-Dollars-Pitch_Deck.pdf) (PDF) - 
 Pitch deck for ESL Job Map used in 2018
 - [Python](https://github.com/StevenWilson9/Reddit-Bots)
- (Reddit bot) - Rewrites code in the .format() format, to f-string format
+ (Reddit bot) - Rewrites code in the .format() format, to F-string format
   - Used: RegEx and PRAW
 
 
