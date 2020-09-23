@@ -1,7 +1,7 @@
 ## Work Samples
 - [Python - Data Analysis ](https://github.com/StevenWilson9/Powerlifting-Strength-Differences-by-Gender/blob/master/Male_Female_Strength_Distributions.ipynb)
   - Examines probability winning in cross-gender competition, controlling for different variables
-  - Uses: Jupyter Notebook, Pandas, Numpy, PyPlot, Seaborn and SciPy.Stats
+  - Uses: Jupyter Notebook, Pandas, NumPy, PyPlot, Seaborn and SciPy.Stats
 - [Python - Reddit Bot](https://github.com/StevenWilson9/Reddit-Bots)
   - Rewrites code in the .format() format, to f-string format
   - Uses: RegEx and PRAW
